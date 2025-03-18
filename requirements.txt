@@ -1,0 +1,13 @@
+Flask
+flask_cors
+obspy
+requests
+matplotlib
+gunicorn
+numpy
+gevent>=1.4
+
+
+
+
+
